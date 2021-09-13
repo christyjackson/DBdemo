@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Db_demo</string>
+    <string name="StudentName">Student Name</string>
+    <string name="RegNo">Registration No.</string>
+    <string name="ViewAll">View All</string>
+    <string name="Add">Add</string>
+</resources>
